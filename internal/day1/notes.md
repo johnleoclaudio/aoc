@@ -1,0 +1,2 @@
+- starts at pointing at 50
+- input L68 means minus 60
